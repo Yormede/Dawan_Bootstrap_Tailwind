@@ -1,0 +1,9 @@
+.hover-sepia:hover img {
+    filter: sepia(100%);
+}
+.hover-sepia:hover .overlay-text {
+    opacity: 1;
+}
+.hover-sepia:hover {
+    cursor: pointer;
+}
